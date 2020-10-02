@@ -2,17 +2,6 @@
 id: about
 title: About
 ---
-
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
-
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
 I am Sowmya Sampath, Software Engineer at Cisco
 
 ## Current Role
